@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import './image-link-form.css';
 
 const ImageLinkForm = ({ onChangeInput, onSubmit }) => {

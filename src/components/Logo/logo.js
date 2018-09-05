@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import Tilt from 'react-tilt';
 import Brain from './Brain.png';
 import './logo.css';
