@@ -1,4 +1,4 @@
-# React practice
+# React practice Demo - face detect 
 
 ### Make a face detect web demo, include front-end, back-end, database.
 
